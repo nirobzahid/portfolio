@@ -6,6 +6,11 @@
       .name{
         color: tomato;
       }
+      .name:hover{
+        color: forestgreen;
+        font-size: 80px;
+        background-color:khaki;
+      }
       h3{
         color: tomato;
       }
@@ -53,6 +58,11 @@
         /* this is text color */
         font-weight: 700; /*for bold the text */
       } 
+      .button:hover{
+        color:royalblue;
+        font-size: 30px;
+        background-color: seagreen;
+      }
       .dream-area{
         background-image: url("images/dream-bg.png");
         background-repeat: no-repeat;
